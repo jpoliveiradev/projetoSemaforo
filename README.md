@@ -2,6 +2,8 @@
 
 Repositório com um projetinho de um semáforo em javascript
 
+Clique [aqui](https://jpoliveiradev.github.io/projetoSemaforo/ProjetoSemaforo/index.html) para executar o projeto.
+
 Obs: Projeto da escola <br>
 
 Desenvolva um programa em Javascript, considerando todos os conhecimentos adquiridos na disciplina, para simular o funcionamento de um semáforo, sendo:
